@@ -9,7 +9,7 @@ My expertise covers a wide array of technologies, including Ruby on Rails, Pytho
 🌐 Feel free to get in touch if:
 
 ⚡ You're a startup seeking assistance in creating an outstanding MVP.</br> 
-⚡ You're a company interested in building a new website or mobile application.</br>
+⚡ You're a company interested in building a new website or mobile application.</br> 
 ⚡ You have an existing project that could benefit from a fresh perspective.</br> 
 ⚡ You represent the e-commerce industry and are eager to develop a state-of-the-art solution in line with the latest trends.
 
